@@ -1,0 +1,29 @@
+E:\Практика\Щербаков\Файлы\Файлы\bin\Debug\Файлы.exe
+E:\Практика\Щербаков\Файлы\Файлы\bin\Debug\Файлы.pdb
+E:\Практика\Щербаков\Файлы\Файлы\obj\Debug\Файлы.csprojAssemblyReference.cache
+E:\Практика\Щербаков\Файлы\Файлы\obj\Debug\Файлы.csproj.CoreCompileInputs.cache
+E:\Практика\Щербаков\Файлы\Файлы\obj\Debug\Файлы.exe
+E:\Практика\Щербаков\Файлы\Файлы\obj\Debug\Файлы.pdb
+D:\Лабораторки\Практика\Щербаков\Файлы\Файлы\bin\Debug\Файлы.exe.config
+D:\Лабораторки\Практика\Щербаков\Файлы\Файлы\bin\Debug\Файлы.exe
+D:\Лабораторки\Практика\Щербаков\Файлы\Файлы\bin\Debug\Файлы.pdb
+D:\Лабораторки\Практика\Щербаков\Файлы\Файлы\obj\Debug\Файлы.csproj.AssemblyReference.cache
+D:\Лабораторки\Практика\Щербаков\Файлы\Файлы\obj\Debug\Файлы.csproj.SuggestedBindingRedirects.cache
+D:\Лабораторки\Практика\Щербаков\Файлы\Файлы\obj\Debug\Файлы.csproj.CoreCompileInputs.cache
+D:\Лабораторки\Практика\Щербаков\Файлы\Файлы\obj\Debug\Файлы.exe
+D:\Лабораторки\Практика\Щербаков\Файлы\Файлы\obj\Debug\Файлы.pdb
+D:\Практика\Щербаков\Файлы\Файлы\bin\Debug\Файлы.exe.config
+D:\Практика\Щербаков\Файлы\Файлы\bin\Debug\Файлы.exe
+D:\Практика\Щербаков\Файлы\Файлы\bin\Debug\Файлы.pdb
+D:\Практика\Щербаков\Файлы\Файлы\obj\Debug\Файлы.csprojResolveAssemblyReference.cache
+D:\Практика\Щербаков\Файлы\Файлы\obj\Debug\Файлы.csproj.CoreCompileInputs.cache
+D:\Практика\Щербаков\Файлы\Файлы\obj\Debug\Файлы.exe
+D:\Практика\Щербаков\Файлы\Файлы\obj\Debug\Файлы.pdb
+D:\Лабораторки\Практика 3\Щербаков\Неделя 3\Файлы\Файлы\bin\Debug\Файлы.exe.config
+D:\Лабораторки\Практика 3\Щербаков\Неделя 3\Файлы\Файлы\bin\Debug\Файлы.exe
+D:\Лабораторки\Практика 3\Щербаков\Неделя 3\Файлы\Файлы\bin\Debug\Файлы.pdb
+D:\Лабораторки\Практика 3\Щербаков\Неделя 3\Файлы\Файлы\obj\Debug\Файлы.csproj.AssemblyReference.cache
+D:\Лабораторки\Практика 3\Щербаков\Неделя 3\Файлы\Файлы\obj\Debug\Файлы.csproj.SuggestedBindingRedirects.cache
+D:\Лабораторки\Практика 3\Щербаков\Неделя 3\Файлы\Файлы\obj\Debug\Файлы.csproj.CoreCompileInputs.cache
+D:\Лабораторки\Практика 3\Щербаков\Неделя 3\Файлы\Файлы\obj\Debug\Файлы.exe
+D:\Лабораторки\Практика 3\Щербаков\Неделя 3\Файлы\Файлы\obj\Debug\Файлы.pdb
